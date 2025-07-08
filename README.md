@@ -265,9 +265,11 @@ erDiagram
 
 -----
 
-## 🤝 Kontribusi
+## 🤝 Team
 
-Kami menyambut kontribusi dari komunitas\! Jika Anda memiliki ide atau ingin meningkatkan platform ini, silakan ajukan *pull request* atau buka *issue*.
+# 1. Sustri Elina Simamora (3012310040)
+# 2. Arya Putra Irwansyah (3012310005)
+# 3. M.Ali Fahmi Fajrul Mubarok (3012310704)
 
 -----
 
